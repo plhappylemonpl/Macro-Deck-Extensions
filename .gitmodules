@@ -193,3 +193,6 @@
 [submodule "Plugins/hashashin.FxCommands"]
 	path = Plugins/hashashin.FxCommands
 	url = https://github.com/hashashin/hashashin.FxCommands
+[submodule "IconPacks/LemoN.DrapcoIconPack"]
+	path = IconPacks/LemoN.DrapcoIconPack
+	url = https://github.com/plhappylemonpl/Drapco-icon-pack-Macro-Deck
